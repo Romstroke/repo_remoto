@@ -1,0 +1,25 @@
+h1{
+    font-size: 100px;
+    background-color: teal;
+    color: antiquewhite;
+}
+
+p{
+  background-color: rgb(243, 188, 152);
+  border-radius: 50%;
+  text-align: end;
+  font-size: 50px;
+  font-weight: bolder;
+  margin: 0;
+}
+
+ul li{
+    display: inline-block;
+    font-size: 200px;
+    color: chocolate;
+}
+
+img{
+    height: 100px;
+    margin-right: 0;
+}
